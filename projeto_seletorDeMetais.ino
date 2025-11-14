@@ -24,7 +24,7 @@
 #include <Stepper.h> // Biblioteca para o motor de passo
 
 // --------------------------------------------------------------------
-// CONFIGURAÇÕES E PINOS (AJUSTE ESTES VALORES)
+// CONFIGURAÇÕES E PINOS (AJUSTAR ESTES VALORES SE NECESSÁRIO)
 // --------------------------------------------------------------------
 
 // --- Sensor Ultrassônico (HC-SR04) ---
